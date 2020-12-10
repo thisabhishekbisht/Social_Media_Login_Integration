@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gauchar Valley</string>
+    <string name="web_client_id">1029577478889-0bq81q5u93kuq3jp858onj0qp703qts1.apps.googleusercontent.com</string>
+    <string name="failed">Login Failed</string>
+</resources>
